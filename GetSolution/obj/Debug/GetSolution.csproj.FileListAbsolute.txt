@@ -1,0 +1,34 @@
+C:\Users\alexe\source\repos\GetSolution\GetSolution\bin\Debug\GetSolution.exe.config
+C:\Users\alexe\source\repos\GetSolution\GetSolution\bin\Debug\GetSolution.exe
+C:\Users\alexe\source\repos\GetSolution\GetSolution\bin\Debug\GetSolution.pdb
+C:\Users\alexe\source\repos\GetSolution\GetSolution\obj\Debug\GetSolution.csprojAssemblyReference.cache
+C:\Users\alexe\source\repos\GetSolution\GetSolution\obj\Debug\GetSolution.Form1.resources
+C:\Users\alexe\source\repos\GetSolution\GetSolution\obj\Debug\GetSolution.Properties.Resources.resources
+C:\Users\alexe\source\repos\GetSolution\GetSolution\obj\Debug\GetSolution.csproj.GenerateResource.cache
+C:\Users\alexe\source\repos\GetSolution\GetSolution\obj\Debug\GetSolution.csproj.CoreCompileInputs.cache
+C:\Users\alexe\source\repos\GetSolution\GetSolution\obj\Debug\GetSolution.exe
+C:\Users\alexe\source\repos\GetSolution\GetSolution\obj\Debug\GetSolution.pdb
+C:\Users\alexe\Desktop\Mainor\DB-205 Творческая практика\GetSolution\GetSolution\bin\Debug\GetSolution.exe.config
+C:\Users\alexe\Desktop\Mainor\DB-205 Творческая практика\GetSolution\GetSolution\bin\Debug\GetSolution.exe
+C:\Users\alexe\Desktop\Mainor\DB-205 Творческая практика\GetSolution\GetSolution\bin\Debug\GetSolution.pdb
+C:\Users\alexe\Desktop\Mainor\DB-205 Творческая практика\GetSolution\GetSolution\obj\Debug\GetSolution.csprojAssemblyReference.cache
+C:\Users\alexe\Desktop\Mainor\DB-205 Творческая практика\GetSolution\GetSolution\obj\Debug\GetSolution.Form1.resources
+C:\Users\alexe\Desktop\Mainor\DB-205 Творческая практика\GetSolution\GetSolution\obj\Debug\GetSolution.Properties.Resources.resources
+C:\Users\alexe\Desktop\Mainor\DB-205 Творческая практика\GetSolution\GetSolution\obj\Debug\GetSolution.csproj.GenerateResource.cache
+C:\Users\alexe\Desktop\Mainor\DB-205 Творческая практика\GetSolution\GetSolution\obj\Debug\GetSolution.csproj.CoreCompileInputs.cache
+C:\Users\alexe\Desktop\Mainor\DB-205 Творческая практика\GetSolution\GetSolution\obj\Debug\GetSolution.exe
+C:\Users\alexe\Desktop\Mainor\DB-205 Творческая практика\GetSolution\GetSolution\obj\Debug\GetSolution.pdb
+C:\Users\alexe\Desktop\Mainor\DB-205 Творческая практика\GetSolution\GetSolution\obj\Debug\GetSolution.AboutBox.resources
+C:\Users\alexe\Desktop\Mainor\DB-205 Творческая практика\GetSolution\GetSolution\bin\Debug\icon.ico
+C:\Users\alexe\Desktop\GetSolution\GetSolution\bin\Debug\icon.ico
+C:\Users\alexe\Desktop\GetSolution\GetSolution\bin\Debug\GetSolution.exe.config
+C:\Users\alexe\Desktop\GetSolution\GetSolution\bin\Debug\GetSolution.exe
+C:\Users\alexe\Desktop\GetSolution\GetSolution\bin\Debug\GetSolution.pdb
+C:\Users\alexe\Desktop\GetSolution\GetSolution\obj\Debug\GetSolution.csprojAssemblyReference.cache
+C:\Users\alexe\Desktop\GetSolution\GetSolution\obj\Debug\GetSolution.AboutBox.resources
+C:\Users\alexe\Desktop\GetSolution\GetSolution\obj\Debug\GetSolution.Form1.resources
+C:\Users\alexe\Desktop\GetSolution\GetSolution\obj\Debug\GetSolution.Properties.Resources.resources
+C:\Users\alexe\Desktop\GetSolution\GetSolution\obj\Debug\GetSolution.csproj.GenerateResource.cache
+C:\Users\alexe\Desktop\GetSolution\GetSolution\obj\Debug\GetSolution.csproj.CoreCompileInputs.cache
+C:\Users\alexe\Desktop\GetSolution\GetSolution\obj\Debug\GetSolution.exe
+C:\Users\alexe\Desktop\GetSolution\GetSolution\obj\Debug\GetSolution.pdb
